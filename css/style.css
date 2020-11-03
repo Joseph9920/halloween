@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Shojumaru&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Shojumaru&display=swap');
+:root{
+	--color-naranja: #ffac2c;
+
+	--color-boton-hover: #f75160;
+
+	--color-naranja: #ffb270;
+
+	--color-negro: #3e3e3e;
+
+	--color-general: #999999;
+	
+	--color-gris: #faf9ff;
+	
+	--color-azul: #4c5462;
+}
+
+body{
+	
+}
+
+.header-area{
+	background-image: url("../bg-hero.png");
+	color: #fff;
+	padding: 1%;
+}
+.header-area h2{
+	font-size: 25px;
+	font-family: shojumaru;
+}
+
+#hero{
+	background-image: url("../bg-hero.png");
+	padding: 25%;
+}
+#hero h2{
+	font-size: 58px;
+	color: #ffac2c;
+	font-family: shojumaru;
+}
+#hero p{
+	color: #fff;
+	font-size: 40px;
+	padding: 1%;
+	font-family: 'Nanum Pen Script', cursive;
+}
+#hero .row{
+	color: #fff;
+	margin: 1%;
+}
+#hero a{
+	color: #fff;
+	background-color: #ffac2c;
+	margin-top: 6%;
+	margin-left: 40%;
+}
+#Our{
+	padding: 10%;
+}
+#Our h2{
+	padding: 2%;
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 60px;
+}
+#Our h3{
+	font-size: 35px;
+	font-family: 'Nanum Pen Script', cursive;
+}
+.img-fluid{
+	padding-top: 12%;
+	width: 120px;
+	height: 120px;
+	margin-left: 35%;
+}
+#Our h4{
+	padding: 4%;
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 28px;
+}
+#Our p{
+	padding: 2%;
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 20px;
+	color: #9B9999;
+}
+#faq{
+	background-color: #f9fbf3;
+	padding: 7%;
+	font-family: 'Nanum Pen Script', cursive;
+}
+#faq h2{
+	font-size: 55px;
+}
+#faq h4{
+	font-size: 25px;
+	padding: 2%;
+}
+#faq img{
+	width: 320px;
+	height: 320px;
+	margin-right: 5%;
+}
+#faq a{
+	background-color: #000;
+	color: #fff;
+}
+#star{
+	padding: 9%;
+	font-family: 'Nanum Pen Script', cursive;
+}
+#star h2{
+	font-size: 50px;
+	padding: 3%;
+}
+#star h5{
+	padding: 4%;
+}
+
+#form{
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position:center;
+	background-image: url("../bg-hero.png");
+	color: #fff;
+	
+}
+
+#form h2{
+	padding: 4%;
+	font-family: 'Nanum Pen Script', cursive;
+}
+
+#form p{
+	padding: 2%;
+}
+#footer{
+	background-color: #ffac2c;
+	padding: 9%;
+}
+
+
+
+
